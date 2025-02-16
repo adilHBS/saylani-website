@@ -18,7 +18,7 @@ height: 1200px;
     border-radius: 130%;
 }
 .height-b{
-    height: 200px;
+    height: ;
 }
 .a:hover{
     cursor: pointer;
@@ -42,4 +42,15 @@ height: 1200px;
 }
 .input{
     width: 520px;
+}
+.bg-image{
+    background-image: url(./asset/bg.png);
+    background-repeat;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    gap: 0;
+}
+.bg-2{
+    background-image: url(./asset/bg\ 2.png);
 }
