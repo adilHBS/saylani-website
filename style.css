@@ -206,5 +206,19 @@ ul>li:hover{
   .font{
     font-size: 40px;
   }
-  
+  .abc{
+    
+    
+    cursor: pointer;
+    
+    transition: all 1s;
+    font: bold 0.9rem sans-serif;
+    border-radius: 4px;
+    background-color:#f0fcdb;
+    
+  }
+  .abc:hover{
+    color: #4e4d4d;
+    transform: scale(1.1);
+  }
   
