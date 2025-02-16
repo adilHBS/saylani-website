@@ -1,0 +1,45 @@
+.bg-green{
+    background-color: #f0fcdb;
+}
+.lingth{
+    width: 65%;
+}
+.height{
+height: 1200px;
+}
+.padding{
+    padding: 90px;
+}
+.div-height{
+    height: 500px; 
+    background-color: blue;
+}
+.font-b{
+    border-radius: 130%;
+}
+.height-b{
+    height: 200px;
+}
+.a:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.color-5{
+   font-style: #0d6db7;
+   color: #0d6db7;
+}
+.bg-green-b{
+    background-color: #eeeeee;
+}
+.color-6{
+    color:#b8f450 ;
+}
+.bg-green-c{
+    background-color: #8dc63f;
+}
+.border-1{
+    border-radius: 15px;
+}
+.input{
+    width: 520px;
+}
