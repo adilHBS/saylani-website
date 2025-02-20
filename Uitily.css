@@ -53,12 +53,8 @@ height: 1200px;
 }
 .bg-2{
     background-image: url(./asset/images.jpeg);
-    background-repeat: no-repeat;
+    background-repeat:no-repeat;
     width: 100%;
+    background-size: 100% ;
 } 
-footer{
-    background-image: url(./asset/images.jpeg);
-    background-repeat: no-repeat; 
-    height: 100vh;
-    border: 2px red;
-}
+
