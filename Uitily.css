@@ -52,5 +52,12 @@ height: 1200px;
     gap: 0;
 }
 .bg-2{
-    background-image: url(./asset/bg\ 2.png);
+    background-image: url(./asset/images.jpeg);
+    background-repeat: no-repeat;
+} 
+footer{
+    background-image: url(./asset/images.jpeg);
+    background-repeat: no-repeat; 
+    height: 100vh;
+    border: 2px red;
 }
