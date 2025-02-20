@@ -54,6 +54,7 @@ height: 1200px;
 .bg-2{
     background-image: url(./asset/images.jpeg);
     background-repeat: no-repeat;
+    width: 100%;
 } 
 footer{
     background-image: url(./asset/images.jpeg);
